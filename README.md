@@ -13,3 +13,5 @@
 9. Update the dvc.yaml
 10. app.py
 
+# ecr uri - 
+381492074894.dkr.ecr.us-east-1.amazonaws.com/kidney
