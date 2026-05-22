@@ -4,6 +4,8 @@
 [![MLOps | DVC](https://img.shields.io/badge/MLOps-DVC%20%7C%20Docker-orange?logo=docker)](https://dvc.org/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-brightgreen?logo=github-actions)](https://github.com/features/actions)
 
+## 🌐 [👉 Click Here to Launch the Live Interactive Dashboard App 👈](https://huggingface.co/spaces/anaghasimha/kidney-disease-mlops)
+
 An end-to-end, production-grade medical image classification pipeline built to automate the orchestration, continuous training, versioning, and cloud-native deployment of diagnostic computer vision models. 
 
 By modularizing the pipeline and containerizing the deployment footprint, this architecture realized a **70% reduction in continuous integration and release latencies** compared to standard localized notebook paradigms.
